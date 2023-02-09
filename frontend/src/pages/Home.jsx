@@ -76,7 +76,7 @@ const Home = () => {
     <section className='max-w-7xl mx-auto'>
     {/* Hero section */}
       <div>
-        <h1 className='font-extrabold text-[#ffffff] text-[32px]'> Naija Artistic Showcase </h1>
+        <h1 className='font-extrabold text-[#ffffff] text-[32px]'> Artistic Showcase </h1>
         <p className='mt-2 text-[#ffff00] text-[16px] max-w[500px]'>
           Generate Artistic Wonders of OpenAI's DALL.E
         </p>

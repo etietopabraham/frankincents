@@ -112,7 +112,7 @@ const CreatePost = () => {
               labelName = "Prompt"
               type = "text"
               name = "prompt"
-              placeholder = "A boy eating dog meat at mary slessor road in calabar Nigeria"
+              placeholder = "Enter a prompt to create an artistic wonder"
               value = {form.prompt}
               handleChange = {handleChange}
               isSurpriseMe

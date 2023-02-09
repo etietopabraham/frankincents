@@ -1,11 +1,11 @@
 import download from './download.png';
-import logo from './logo.jpeg';
+import open_ai_logo from './open_ai_logo.svg';
 import preview from './preview.png';
-import logo_2 from './logo_2.svg';
+import frankincents_ai_logo from './frankincents_ai_logo.svg';
 
 export {
   download,
-  logo,
+  open_ai_logo,
   preview,
-  logo_2
+  frankincents_ai_logo
 };
