@@ -23,7 +23,7 @@ const startServer = async () => {
     try{
         connectDB(process.env.MONGODB_URL);
         app.listen(8080, () => {
-            console.log('Backend server started on http://localhost/8080');
+            console.log('Backend server started on https://frankincents.onrender.com');
         });
     }catch(error){
         console.log(error);
