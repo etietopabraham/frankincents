@@ -78,7 +78,7 @@ const Home = () => {
       <div>
         <h1 className='font-extrabold text-[#ffffff] text-[32px]'> Artistic Showcase </h1>
         <p className='mt-2 text-[#ffff00] text-[16px] max-w[500px]'>
-          Generate Artistic Wonders of OpenAI's DALL.E
+          Create Artistic Wonders from OpenAI's DALL.E
         </p>
       </div>
 
